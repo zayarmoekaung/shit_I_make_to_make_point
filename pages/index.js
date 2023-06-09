@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Omer Dahan Suck D*ck" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         I just create this just to make a fucking point  
         </p>
       </main>
 
